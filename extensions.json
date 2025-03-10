@@ -229,5 +229,19 @@
     "sha256sum": "4e745bc48cbaf39b826b2d21215e30ef4586ebfa61f239ed0bb1575ca7bb4455",
     "foxe": "https://github.com/usedhondacivic/foxglove-teleop-twist-keyboard/releases/download/v0.0.2/usedhondacivic.foxglove-teleop-twist-keyboard-v0.0.2.foxe",
     "keywords": ["ros", "teleop"]
+  },
+  {
+    "id": "asam-osi-converter",
+    "name": "ASAM OSI Converter",
+    "description": "Lichtblick extension which visualizes data following the standard of the ASAM Open Simulation Interface (ASAM OSI) using the native 3D panel of Lichtblick.",
+    "publisher": "",
+    "homepage": "https://github.com/Lichtblick-Suite/asam-osi-converter",
+    "readme": "https://raw.githubusercontent.com/Lichtblick-Suite/asam-osi-converter/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/Lichtblick-Suite/asam-osi-converter/refs/heads/main/CHANGELOG.md",
+    "license": "MIT",
+    "version": "v0.0.5",
+    "sha256sum": "30238949ff718bc87b310336bdc2cc4b18da98338d9d3b65c107f605aff75d26",
+    "foxe": "https://github.com/Lichtblick-Suite/asam-osi-converter/releases/download/v0.0.5/lichtblick.asam-osi-converter-0.0.5.foxe",
+    "keywords": ["asam", "osi", "open-simulation-interface"]
   }
 ]
